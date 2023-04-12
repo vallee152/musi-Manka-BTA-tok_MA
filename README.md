@@ -1,5 +1,7 @@
 # musi-Manka-BTA-tok_MA
-localisation of Minecraft BTA for toki pona
+Localisation of Minecraft BTA for toki pona.
+
+For newer versions, go to the [official BTA server](https://discord.gg/jvwD8BKq5e).
 
 ## To Install
 
