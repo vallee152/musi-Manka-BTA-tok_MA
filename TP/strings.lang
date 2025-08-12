@@ -1,0 +1,186 @@
+dimension.overworld.name=ma pona
+dimension.hell.name=ma anpa
+dimension.paradise.name=ma sewi
+
+season.overworld.spring.name=tenpo pi kama seli
+season.overworld.summer.name=tenpo seli
+season.overworld.fall.name=tenpo pi kama lete
+season.overworld.winter.name=tenpo lete
+season.overworld.hell.name=ma anpa
+season.overworld.winter.endless.name=tenpo lete pi pini ala
+season.paradise.gold.name=ma sewi jelo
+season.paradise.silver.name=ma sewi walo
+season.null.name=tenpo mun ala
+
+weather.overworld.clear.name=kon pona
+weather.overworld.clear.hell.name=kon seli
+weather.overworld.clear.woods.name=kon pona
+weather.overworld.rain.name=sewi li telo
+weather.overworld.snow.name=sewi li telo lete
+weather.overworld.winter.snow.name=sewi li telo lete
+weather.overworld.storm.name=sewi li kalama
+weather.overworld.fog.name=ko kon li lon anpa
+
+gamemode.survival.name=jan ma
+gamemode.creative.name=jan sewi
+gamemode.hardcore.name=jan pi lon wan taso
+gamemode.adventure.name=jan alasa
+gamemode.spectator.name=jan pi lukin taso
+
+worldType.overworld.extended.name=ma pona
+worldType.overworld.extended.desc=ma pona tawa musi\nBTA. ma li suli a.
+worldType.overworld.default.name=ma pona lili
+worldType.overworld.default.desc=ni li sama musi pini.
+worldType.nether.default.name=ma pona
+worldType.paradise.default.name=ma pona
+worldType.flat.name=ma supa suli
+worldType.flat.desc=ma kasi supa\nli pini ala.
+worldType.overworld.floating.name=ma kon
+worldType.overworld.floating.desc=ma li lon sewi\nli lon kon.
+worldType.overworld.amplified.name=ma suli
+worldType.overworld.amplified.desc=ni li sama ma pona. taso ma\nli tawa sewi.
+worldType.overworld.retro.name=ma pi tenpo pini
+worldType.overworld.retro.desc=ma li sama musi Manka Apa\n1.1.2_01.
+worldType.overworld.islands.name=ma telo
+worldType.overworld.islands.desc=telo li kama sewi.\nma li kama lili.\ntelo li suli a.
+worldType.overworld.winter.name=tenpo lete
+worldType.overworld.winter.desc=ni li sama ma pona.\ntaso ko lete li awen kama.
+worldType.overworld.hell.name=ma anpa
+worldType.overworld.hell.desc=tenpo pini suli la, ma li moli\no lon pona.
+worldType.overworld.woods.name=ma kasi
+worldType.overworld.woods.desc=ma kasi suli li lon.
+worldType.overworld.paradise.name=ma sewi
+worldType.overworld.paradise.desc=suno li pini ala.\nlete li lon ala.
+worldType.empty.name=ala
+worldType.empty.desc=leko wan taso li lon.
+worldType.debug.name=ma sona
+worldType.debug.desc=leko ale li lon.
+worldType.overworld.inland.name=ma taso
+worldType.overworld.inland.desc=telo suli li lon ala.
+worldType.overworld.classic.name=tenpo pona
+worldType.overworld.classic.desc=nasin ma li sama \ntenpo pona.
+worldType.overworld.indev.name=musi Inte
+worldType.overworld.indev.desc=ma li sama musi Manka Inte. taso pini ma li lon ala
+worldType.overworld.skyblock.name=leko sewi
+worldType.overworld.skyblock.desc= jan li lon ma lili sewi.
+
+disconnect.genericReason=%s
+disconnect.disconnected=ma kulupu li weka e sina
+disconnect.lost=mi ken ala toki tawa ma kulupu
+disconnect.kicked=jan li weka e sina
+disconnect.timeout=sina kepeken tenpo suli ike
+disconnect.closed=pali jan la mi ken ala toki tawa ma kulupu
+disconnect.loginFailed=kama sina li ike
+disconnect.loginFailedInfo=kama sina li ike: %s
+disconnect.quitting=sina weka
+disconnect.endOfStream=pana sitelen li pini
+disconnect.overflow=poki tenpo pi ilo sona li pini
+connect.failed=tawa ma li pakala ike
+
+damagetype.combat=utala
+damagetype.projectile=ijo lon sewi
+damagetype.blast=pakala
+damagetype.fall=tawa anpa
+damagetype.fire=seli
+
+progress.tip=o sona e ni: %s
+
+bed.occupied=jan li kepeken supa lape ni
+bed.noSleep=sina ken lape lon tenpo pimeja taso
+bed.setSpawn=ma ni la, sina kama sin
+bed.notValid=sina jo ala e supa lape. ken la ona li pakala
+bed.noAllowSleeping=nasin musi la, sina ken ala lape.
+
+sign.image.none=sitelen ala
+sign.image.arrow_right=tawa pini
+sign.image.arrow_left=tawa open
+sign.image.arrow_down=tawa anpa
+sign.image.arrow_up=tawa sewi
+sign.image.caution=o sona
+sign.image.mobs=monsuta
+sign.image.trees=kasi
+sign.image.chest=poki
+sign.image.pickaxe=ilo pakala
+sign.image.wolf=soweli pona
+sign.image.sword=palisa utala
+sign.image.hoe=ilo kasi
+sign.image.axe=ilo kipisi
+sign.image.shovel=ilo ma
+sign.image.bowl=poki moku
+sign.image.tnt=ilo pi seli pakala
+sign.image.mob_farm=ma mani monsuta
+sign.image.mine=ma ma
+sign.image.redstone=ko wawa
+sign.image.farm=ma mani
+sign.image.barricade=kiwen
+sign.image.question_mark=seme
+sign.image.face_smile=pilin pona
+sign.image.face_sad=pilin ike
+sign.image.face_crying=pana telo
+sign.image.face_gasp=wile kon
+sign.image.face_thinking=wile sona
+sign.image.face_confused=sona ala
+sign.image.big_sign=lipu suli
+sign.image.mob_zombie=jan moli
+sign.image.mob_skeleton=jan moli palisa
+sign.image.mob_creeper=monsuta Kepa
+sign.image.one_player=jan wan
+sign.image.two_players=jan tu
+sign.image.three_players=jan tu wan
+sign.image.cross=ala
+sign.image.craft=pali
+sign.image.afk=lon ala
+sign.image.brb=mi weka lon tenpo ni
+sign.image.heart=pilin
+
+record.13=luka luka tu wan
+record.cat=soweli lili
+record.blocks=leko
+record.chirp=mu
+record.far=weka
+record.mall=esun
+record.mellohi=sewi
+record.stal=palisa
+record.strad=tawa
+record.ward=weka
+record.wait=awen
+record.dog=soweli suli
+
+flag.full=sina jo e len sitelen pi nanpa ike lon sitelen ma ni.
+flag.overwrite=sina ken ala ante e sitelen ni.
+flag.copied=sitelen li kama tu
+
+wand.wrongmode=sina wile kepeken ilo ni la o kama jan sewi!
+
+save.data.missing.data=sona lili pi ma ni li lon ala!
+
+unit.day=suno
+
+direction.up=sewi
+direction.down=anpa
+direction.north=weka suno
+direction.south=tawa suno
+direction.west=suno anpa
+direction.east=suno sewi
+direction.none=ala
+
+side.top=sewi
+side.bottom=anpa
+side.north=weka suno
+side.south=tawa suno
+side.west=suno anpa
+side.east=suno sewi
+side.none=ala
+
+container.activator.name=ilo luka
+container.chest.name=poki
+container.chest.large.name=poki suli
+container.dispenser.name=ilo pana
+container.flag.name=len sitelen
+container.furnace.name=poki seli
+container.furnace_blast.name=poki seli wawa
+container.trommel.name=ilo pi weka ko
+container.minecart.name=poki tawa
+container.crafting.name=pali
+container.inventory.name=jo sina
+container.result.name=kama

@@ -1,0 +1,105 @@
+subtitles.mob.sheep=soweli len li mu
+subtitles.mob.chicken=waso li mu
+subtitles.mob.chicken.hurt=waso li mu pakala
+subtitles.mob.chicken.plop=waso li pana e sike
+subtitles.mob.pig=soweli moku li mu
+subtitles.mob.pig.death=soweli moku li moli
+subtitles.mob.wolf.howl=soweli alasa li mu wawa
+subtitles.mob.wolf.panting=soweli alasa li mu pali
+subtitles.mob.wolf.hurt=soweli alasa li mu pakala
+subtitles.mob.wolf.bark=soweli alasa li mu
+subtitles.mob.wolf.growl=soweli alasa li mu utala
+subtitles.mob.wolf.death=soweli alasa li moli
+subtitles.mob.wolf.whine=soweli alasa li mu lili
+subtitles.mob.wolf.shake=soweli alasa li weka e telo
+subtitles.mob.cow.hurt=soweli suli li mu pakala
+subtitles.mob.cow=soweli suli li mu
+subtitles.mob.zombie=jan moli li mu
+subtitles.mob.zombie.hurt=jan moli li mu pakala
+subtitles.mob.zombie.death=jan moli li moli
+subtitles.mob.zombiepig.zpighurt=jan soweli moli li mu pakala
+subtitles.mob.zombiepig.zpig=jan soweli moli li mu
+subtitles.mob.zombiepig.zpigdeath=jan soweli moli li moli
+subtitles.mob.zombiepig.zpigangry=jan soweli moli li mu utala
+subtitles.mob.skeleton=jan moli alasa li mu
+subtitles.mob.skeleton.death=jan moli alasa li moli
+subtitles.mob.skeleton.hurt=jan moli alasa li mu pakala
+subtitles.mob.ghast.fireball=kon walo li pana e seli
+subtitles.mob.ghast.moan=kon walo li mu
+subtitles.mob.ghast.death=kon walo li moli
+subtitles.mob.ghast.scream=kon walo li mu pakala
+subtitles.mob.ghast.affectionate_scream=kon walo li mu olin
+subtitles.mob.creeper=monsuta pakala li mu pakala
+subtitles.mob.creeper.death=monsuta pakala li moli
+subtitles.mob.creeper.fuse=monsuta pakala li mi seli
+subtitles.mob.spider.death=pipi li moli
+subtitles.mob.spider=pipi li mu
+subtitles.mob.ghast.charge=kon walo li seli
+subtitles.mob.slime.attack=ko li utala
+subtitles.mob.slime=ko li mu
+
+subtitles.fall.small=anpa lili
+subtitles.damage.fall.big=anpa suli
+
+subtitles.liquid.water=telo li tawa
+subtitles.liquid.lava.pop=telo seli li mu
+subtitles.liquid.lava=telo seli li mu
+subtitles.liquid.splash=telo li mu
+
+subtitles.portal.portal=lupa nasin pi ma anpa li mu
+subtitles.portal.trigger=lupa nasin li kama tawa
+subtitles.portal.travel=sina tawa
+
+subtitles.item.pickup=ijo li kama lon luka
+
+subtitles.random.fizz=mu telo
+subtitles.random.drr=mu pi palisa alasa
+subtitles.random.fuse=mu pi kama seli
+subtitles.random.skate=mu pi len tawa pi kiwen lete
+subtitles.random.pop=mu
+subtitles.random.glass=mu pakala pi kiwen lukin
+subtitles.random.door_open=mu lupa open
+subtitles.random.door_close=mu lupa sinpin
+subtitles.random.explode=mu pakala suli
+subtitles.random.bow=mu pi ilo alasa
+subtitles.random.hurt=mu pakala
+subtitles.random.splash=mu telo suli
+subtitles.random.breath=mu kon
+subtitles.random.bite=mu moku
+subtitles.random.equip=mu len
+
+subtitles.note.snare=mu supa
+subtitles.note.harp=mu linja pilin
+subtitles.note.bass=mu linja suli
+subtitles.note.bd=mu supa suli
+subtitles.note.pling=mu linja lili
+subtitles.note.hat=mu supa lili
+subtitles.note.bassattack=mu linja nasa
+subtitles.note.chant=mu toki
+subtitles.note.drum_steel=mu supa kiwen
+subtitles.note.chip_triangle=mu kiwen kiki
+subtitles.note.guitar_electric=mu linja wawa
+subtitles.note.celesta=mu kiwen sike
+subtitles.note.wood_block=mu leko
+
+subtitles.ambient.weather.thunder=wawa sewi li mu wawa
+subtitles.ambient.cave=mu lupa ma
+subtitles.ambient.weather.rain=telo li tawa anpa
+
+subtitles.tile.piston.out=ilo tawa li suli
+subtitles.tile.piston.in=ilo tawa li lili
+
+subtitles.tile.tnt.fuse=ilo pakala li kama seli
+subtitles.tile.sensor_block.sense=ilo li lukin e ijo
+
+subtitles.tile.dispenser.click=ilo li pana e ala
+subtitles.tile.dispenser.eject=ilo li pana e ijo
+subtitles.tile.dispenser.fire=ilo li pana wawa e ijo
+
+subtitles.tile.activator.click=ilo li luka e ala
+subtitles.tile.activator.use=ilo li luka e ijo
+
+subtitles.hurt.flesh=sijelo li pakala
+
+subtitles.fire.ignite=seli li kama
+subtitles.fire.fire=seli li mu

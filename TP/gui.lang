@@ -1,0 +1,403 @@
+gui.achievement.label.get=pali pona!
+gui.achievement.label.unlicensed.1=musi BTA! %s sina esun ala :(
+gui.achievement.label.unlicensed.2=(ken la sina kama lon kepeken nasin ante)
+gui.achievement.label.unlicensed.3=o esun lon lipu Minecraft.net
+
+gui.achievements.button.done=pona
+gui.achievements.label.title=pali pona
+gui.achievements.label.taken=sina pali e ni!
+gui.achievements.label.requires=ona li wile e ni: '%1$s'
+gui.achievements.label.completion=pali %1$s li pini!
+
+gui.achievements.page.vanilla.name=nasin pona
+gui.achievements.page.vanilla.desc=pali pona pi musi BTA!
+gui.achievements.page.overworld.name=ma pona
+gui.achievements.page.overworld.desc=pali pona pi ma open!
+gui.achievements.page.nether.name=ma anpa
+gui.achievements.page.nether.desc=pali pona pi ma seli!
+
+gui.add_server.label.title=ma kulupu sin
+gui.add_server.button.save=o awen
+gui.add_server.button.cancel=o ala
+gui.add_server.button.show_ip=o pana e nanpa IP: %s
+gui.add_server.button.show_ip.on=wile
+gui.add_server.button.show_ip.off=ala
+gui.add_server.label.server_name=nimi kulupu
+gui.add_server.label.ip_address=nanpa IP
+
+gui.bad_java_arch.label.title=ilo Sawa pi nanpa lili li lon! (Java 32-bit)
+gui.bad_java_arch.label.body.1=lukin la, sina kepeken musi BTA lon ilo Sawa pi nanpa lili
+gui.bad_java_arch.label.body.2=ni li ken pakala e musi ni tan suli sona
+gui.bad_java_arch.label.body.3=ken la, musi li pakala suli, li moli
+gui.bad_java_arch.label.body.4=o kama jo e ilo Sawa pi nanpa suli. (Java 64-bit)
+gui.bad_java_arch.button.download=o kama jo
+gui.bad_java_arch.button.continue=o tawa musi
+
+gui.no_jce.label.title=ilo Java Cryptography Extension (JCE) li lon ala!
+gui.no_jce.label.body.1=sona la sina kepeken ilo JCE ala.
+gui.no_jce.label.body.2=ni li pakala e musi linluwi.
+gui.no_jce.label.body.3=kalama en toki li ken pakala!
+gui.no_jce.label.body.4=o kama jo e ilo Sawa sin pi ilo JCE.
+gui.no_jce.label.body.5=ilo Eclipse Temurin li wan ni.
+gui.no_jce.label.body.intel.disclaimer.1=ilo Intel Graphics li ken ike e ilo JCE.
+gui.no_jce.label.body.intel.disclaimer.2=o pana e ijo pona ilo JCE.
+gui.no_jce.label.body.intel.disclaimer.3=
+gui.no_jce.button.download.recommended=ilo Sawa (o ni!)
+gui.no_jce.button.download=ilo Sawa
+gui.no_jce.button.upgrade=ijo pona ilo JCE
+gui.no_jce.button.upgrade.recommended=ijo pona ilo JCE (o ni!)
+gui.no_jce.button.continue=mi wile musi
+
+gui.no_minecraft.label.title=musi Manka b1.7.3 li lon ala!
+gui.no_minecraft.label.body.1=lukin la sina musi BTA kepeken musi Manka ala pi nanpa pona.
+gui.no_minecraft.label.body.2=musi BTA li wile e musi Manka pona pi nanpa b1.7.3
+gui.no_minecraft.label.body.3=tawa kama pali.
+gui.no_minecraft.label.body.4=pakala ni li tan pali ike sina. sina pana ala pana e musi Manka b1.7.3?
+gui.no_minecraft.label.body.5=o lukin e nasin pana lon anpa.
+gui.no_minecraft.button.guide=nasin pana
+gui.no_minecraft.button.quit=o weka
+
+
+gui.conflict_warning.label.title=ma li ken ala awen
+gui.conflict_warning.label.body.1=musi Manka li lukin e ni: sona ma li ken ala awen pona.
+gui.conflict_warning.label.body.2=ni li ken tan musi tu sama li lon
+gui.conflict_warning.label.body.3=li musi kepeken ma sama.
+gui.conflict_warning.label.body.4=musi ni li pini tan ni: ma o pakala ala.
+gui.conflict_warning.button.back=o tawa lipu open
+
+gui.connect_failed.label.title=mi ken ala tawa ma kulupu
+gui.connect_failed.button.back=o tawa lipu open
+
+gui.connect_to_ip.button.connect=o tawa kulupu
+gui.connect_to_ip.button.cancel=o ala
+gui.connect_to_ip.label.title=o tawa nanpa IP
+gui.connect_to_ip.label.enter_ip=o pana e nanpa IP kulupu:
+
+gui.connecting.button.cancel=o ala
+gui.connecting.label.connecting=mi tawa kulupu...
+gui.connecting.label.logging_in=kulupu li kama sona e nimi sina...
+
+gui.controller_setup.button.back=o weka
+gui.controller_setup.label.no_controller_selected=sina kepeken ala ilo sike.
+
+gui.crafting.label.crafting=pali
+gui.crafting.label.inventory=jo sina
+
+gui.create_world.label.title=ma sin
+gui.create_world.label.world_name=nimi ma
+gui.create_world.label.seed=nanpa ma
+gui.create_world.button.create_new_world=o pali e ma sin
+gui.create_world.button.cancel=o ala
+gui.create_world.button.gamemode=nasin musi: %s
+gui.create_world.button.cheats=toki wawa: %s
+gui.create_world.button.cheats.on=wile
+gui.create_world.button.cheats.off=wile ala
+gui.create_world.button.world_type=nasin ma: %s
+gui.create_world.label.new_world=ma sin
+gui.create_world.label.select_world_type=nasin ma
+
+gui.create_world.label.title=ma sin
+gui.create_world.button.cancel=o ala
+gui.create_world.button.create_world=o pali
+
+gui.create_world.pages.general.title=ijo ante
+gui.create_world.pages.general.label.world_name=nimi ma
+gui.create_world.pages.general.label.world_seed=nanpa ma
+gui.create_world.pages.world_settings.title=nasin ma
+gui.create_world.pages.game_rules.title=nasin musi
+
+gui.dispenser.label.dispenser=ilo pana
+gui.dispenser.label.inventory=jo sina
+
+gui.activator.label.activator=ilo luka
+gui.activator.label.inventory=jo sina
+
+gui.downloading_terrain.label.title=mi kama jo e ma
+
+gui.edit_flag.label.inventory=jo sina
+
+gui.edit_label.label.title=o sitelen e lipu:
+gui.edit_label.button.done=pona
+
+gui.edit_sign.label.title=o sitelen e lipu:
+gui.edit_sign.button.done=pona
+
+gui.exception.label.exception_occurred=An exception has occurred!
+gui.exception.label.fatal_error=A fatal error has occurred!
+gui.exception.label.startup_error=Minecraft has failed to start!
+gui.exception.button.copy_error=Copy error
+gui.exception.button.copy_error_and_quit=Copy error and quit
+gui.exception.button.back=Back to title screen
+
+gui.furnace.label.furnace=poki seli
+gui.furnace.blast.label.blast_furnace=poki seli wawa
+gui.furnace.label.inventory=jo sina
+
+gui.game_over.label.title=sina moli!
+gui.game_over.label.score=nanpa wawa: %s
+gui.game_over.button.respawn=o lon sin
+gui.game_over.button.respawn.spectator=o lukin taso
+gui.game_over.button.title_screen=o tawa lipu open
+
+gui.guidebook.label.title=lipu sona
+
+gui.ingame.label.now_playing=musi: %s
+
+gui.ingame_menu.label.title=lipu lawa
+gui.ingame_menu.label.score=nanpa wawa: %s
+gui.ingame_menu.label.saving=mi awen e ma...
+gui.ingame_menu.button.save_and_quit=o awen e musi o tawa lipu open
+gui.ingame_menu.button.disconnect=o weka tan kulupu
+gui.ingame_menu.button.back_to_game=o musi
+gui.ingame_menu.button.options=nasin ante...
+gui.ingame_menu.button.photo_mode=sitelen tan sewi...
+gui.ingame_menu.button.achievements=pali pona
+gui.ingame_menu.button.statistics=nanpa pali
+
+gui.inventory.label.crafting=pali
+gui.inventory.creative.label.search=o alasa...
+
+gui.loading.label.generating=mi pali e ma...
+gui.loading.label.loading=mi kama jo e ma...
+gui.loading.label.entering=sina tawa %s...
+gui.loading.label.leaving=sina weka tan %s...
+
+gui.main_menu.label.splash.jonkadelic_birthday=jan Jonkadelic o majuna pona!
+gui.main_menu.label.splash.maggandgeez_birthday=jan MaggAndGeez o majuna pona!
+gui.main_menu.label.splash.minecraft_birthday=musi Manka o majuna pona!
+gui.main_menu.label.splash.bta_birthday=musi BTA o majuna pona!
+gui.main_menu.label.splash.xmas=tenpo Jesu pona!
+gui.main_menu.label.splash.halloween=tenpo monsuta pona!
+gui.main_menu.label.splash.new_year=sike sin pona!
+gui.main_menu.label.disclaimer.1=kulupu Mojan li jo e toki ken. ona li pali ala e ante musi.
+gui.main_menu.label.disclaimer.2=kulupu Mojan en kulupu Makosa li toki ala e ante ni.
+gui.main_menu.label.downloading_resources.1=mi kama jo e ijo: %s / %s
+gui.main_menu.label.downloading_resources.2=tenpo ni la kalama li ken lon ala!
+gui.main_menu.button.singleplayer=musi pi jan wan
+gui.main_menu.button.multiplayer=musi kulupu
+gui.main_menu.button.multiplayer.disabled=musi kulupu (sina ken ala!)
+gui.main_menu.button.texture_packs=poki sitelen
+gui.main_menu.button.options=ante nasin...
+gui.main_menu.button.quit_game=o pini e musi
+gui.main_menu.button.discord=ilo Siko
+gui.main_menu.button.youtube=sitelen Jutu
+gui.main_menu.button.website=lipu pi musi ni
+gui.main_menu.button.credits=lipu pali
+
+gui.out_of_memory.label.title=sona ilo li pini!
+gui.out_of_memory.label.body.1=musi Manka li wile e sona ilo suli.
+gui.out_of_memory.label.body.2=ni li ken tan pakala musi, li ken tan
+gui.out_of_memory.label.body.3=ilo Sawa pi sona ilo lili.
+gui.out_of_memory.label.body.4= 
+gui.out_of_memory.label.body.5=ma o pakala ala la, musi li weka.
+gui.out_of_memory.label.body.6=o sin e musi.
+
+gui.options.title=ante nasin
+gui.options.button.done=pona
+gui.options.label.select_page=lipu
+gui.options.label.picking_keybinding=o luka e nena tawa lawa tawa '%s'.
+
+gui.options.page.general.title=ijo ante
+gui.options.page.general.button.open_worlds_folder=o open e poki ilo ma
+gui.options.page.general.button.open_screenshots_folder=o open e poki ilo sitelen
+gui.options.page.general.button.edit_hud=o ante e lipu sona...
+gui.options.page.general.category.gameplay=musi
+gui.options.page.general.category.user_interface=lipu sona
+gui.options.page.general.category.miscellaneous=ijo ante
+
+gui.options.page.audio.title=kalama
+gui.options.page.audio.category.audio=kalama
+gui.options.page.audio.category.debug=sona monsi
+
+gui.options.page.accessibility.title=ijo pona tawa jan
+gui.options.page.accessibility.category.accessibility=ijo pona tawa jan
+
+gui.options.page.video.title=sitelen
+gui.options.page.video.category.graphics=sitelen
+gui.options.page.video.category.performance=pona ilo
+gui.options.page.video.category.post_processing=pali pini sitelen
+gui.options.page.video.category.visuals=lukin
+
+gui.options.page.controls.title=ilo lawa
+gui.options.page.controls.button.controller_setup=ilo sike...
+gui.options.page.controls.button.key.unbound=ala
+gui.options.page.controls.category.mouse=ilo luka
+gui.options.page.controls.category.keyboard=supa nena
+gui.options.page.controls.category.controller=ilo sike
+gui.options.page.controls.category.interactions=ijo
+gui.options.page.controls.category.movement=tawa
+gui.options.page.controls.category.user_interface=sitelen pona
+gui.options.page.controls.category.hotbar=lipu jo
+gui.options.page.controls.category.view=lukin
+gui.options.page.controls.category.miscellaneous=ijo ante
+
+gui.options.page.texture_packs.title=poki sitelen
+gui.options.page.texture_packs.category.textures=sitelen
+gui.options.page.texture_packs.category.texture_packs.available=poki sitelen ken
+gui.options.page.texture_packs.category.texture_packs.selected=poki sitelen lon
+gui.options.page.texture_packs.button.open_folder=o tawa poki ilo sitelen
+gui.options.page.texture_packs.button.apply=o sitelen ni
+gui.options.page.texture_packs.label.no_packs=sina jo ala e poki sitelen :(
+gui.options.page.texture_packs.label.outdated_pack.1=poki pi tenpo pini!
+gui.options.page.texture_packs.label.outdated_pack.2=poki ni li tawa musi BTA ante!
+
+gui.options.page.language_packs.title=poki toki
+gui.options.page.language_packs.category.language_packs=poki toki
+gui.options.page.language_packs.button.open_folder=o tawa poki ilo toki
+
+gui.options.page.debug.title=lipu sona
+gui.options.page.debug.category.controls=lawa sona
+gui.options.page.debug.category.utility=ilo
+gui.options.page.debug.category.settings=nasin
+gui.options.page.debug.category.test=kama sona
+gui.options.page.debug.button.open.model_viewer=o lukin e ijo
+gui.options.page.debug.button.open.biome_finder=o lukin e lon ma
+gui.options.page.debug.button.open.datadumper=o kama jo e nanpa mute
+gui.options.page.debug.button.open.sound_test=o kute e kalama
+gui.options.page.debug.button.open.texture_viewer=o lukin e sitelen
+gui.options.page.debug.button.open.achievements=o lukin e pali pona
+gui.options.page.debug.button.wipestats=o weka e pali mi
+gui.options.page.debug.button.unlockedall=o kama e pali ale mi
+gui.options.page.debug.button.cheat=o ken e toki wawa
+gui.options.page.debug.button.crash.soft=o pakala e musi
+gui.options.page.debug.button.crash.hard=o pakala e musi kepeken wawa
+gui.options.page.debug.button.music.skip=kalama musi monsi o lon
+
+gui.options.page.search.title=o alasa
+
+gui.sound_test.label.title=sona kalama
+gui.sound_test.label.repo=poki kalama: %s
+gui.sound_test.label.id=nanpa kalama: %s
+gui.sound_test.label.subtitle=nimi kalama: %s | %s
+gui.sound_test.label.url=nasin URL: %s
+gui.sound_test.label.select_repo=poki seme:
+gui.sound_test.label.select_entry=ijo seme:
+gui.sound_test.button.done=o pini
+gui.sound_test.button.play=o kalama
+gui.sound_test.button.play_stream=o kalama nasin
+gui.sound_test.button.reload=o sin
+gui.sound_test.button.stop=o pini
+
+gui.texture_viewer.label.title=lukin sitelen
+
+gui.photo_mode.label.mouse_hint=o luka e nena ilo luka o tawa e ona.
+gui.photo_mode.button.take_screenshot=o sitelen
+gui.photo_mode.button.center_camera=o tawa jan e ilo sitelen
+gui.photo_mode.button.show_player=o lukin e jan: %s
+gui.photo_mode.button.show_player.on=wile
+gui.photo_mode.button.show_player.off=wile ala
+gui.photo_mode.button.time_of_day=tenpo suno: %s
+gui.photo_mode.button.time_of_day.default=pona
+gui.photo_mode.button.season=tenpo mun: %s
+gui.photo_mode.button.season.default=pona
+gui.photo_mode.button.fog=ko kon lon ma: %s
+gui.photo_mode.button.tilt=sewi ilo: %s
+gui.photo_mode.button.tilt.default=pona
+gui.photo_mode.button.shader=ante sitelen: %s
+gui.photo_mode.button.shader.none=ala
+gui.photo_mode.button.intensity=wawa ante: %s
+
+gui.select_server.label.title=sina wile e kulupu seme?
+gui.select_server.label.delete_title=o weka e kulupu
+gui.select_server.label.delete_confirm.1=sina wile ala wile weka e ni?
+gui.select_server.label.delete_confirm.2='%s' li weka! (li ken ala kama tan weka!)
+gui.select_server.label.edit.1=o ante e sona kulupu
+gui.select_server.label.edit.2=nimi kulupu
+gui.select_server.label.edit.3=nanpa kulupu
+gui.select_server.label.down=musi ala
+gui.select_server.label.outdated=musi pi tenpo pini
+gui.select_server.button.join_server=o tawa
+gui.select_server.button.direct_connect=o musi lon tenpo wan
+gui.select_server.button.add_server=kulupu sin
+gui.select_server.button.edit=o ante
+gui.select_server.button.delete=o weka e kulupu
+gui.select_server.button.refresh=o sin e sona kulupu
+gui.select_server.button.cancel=o ala
+gui.select_server.button.done=pona
+gui.select_server.button.show_ip=o pana e nanpa IP: %s
+gui.select_server.button.show_ip.on=wile
+gui.select_server.button.show_ip.off=wile ala
+
+gui.select_world.label.title=sina wile e ma seme?
+gui.select_world.label.world=ma %s
+gui.select_world.label.must_be_converted=sina wile ante e sona nanpa pi ma ni!
+gui.select_world.label.dimension_corrupted=ike la ilo li pakala e ma ni!
+gui.select_world.label.outdated=nanpa sona pi tenpo pini. tenpo ni la mi ken ala sin e ona.
+gui.select_world.label.delete_title=o weka e ma
+gui.select_world.label.delete_confirm.1=sina wile ala wile weka e ma ni?
+gui.select_world.label.delete_confirm.2='%s' li weka lon tenpo ale! (tenpo ni li suli!)
+gui.select_world.label.rename_title=o ante e nimi
+gui.select_world.label.world_name=nimi ma
+gui.select_world.label.cheats=toki wawa
+gui.select_world.label.unknown=\[mi sona ala\]
+gui.select_world.button.play_selected_world=o open e ma
+gui.select_world.button.rename=o ante e nimi
+gui.select_world.button.create_new_world=ma sin
+gui.select_world.button.delete=o weka e ma
+gui.select_world.button.cancel=o ala
+
+gui.sleeping.leave_bed=o weka tan supa
+gui.sleeping.multiplayer.leave_bed=o weka tan supa
+
+gui.statistics.label.title=sona nanpa
+gui.statistics.label.times_used=nanpa kepeken
+gui.statistics.label.times_mined=nanpa pakala
+gui.statistics.label.times_depleted=nanpa pi pakala ilo
+gui.statistics.label.times_crafted=nanpa pali
+gui.statistics.button.done=pona
+gui.statistics.button.general=ante
+gui.statistics.button.blocks=leko
+gui.statistics.button.items=ijo
+
+gui.trommel.label.trommel=ilo pi weka ko
+gui.trommel.label.inventory=jo sina
+
+gui.hud_designer.button.done=pona
+
+gui.pick_monster.label.title=soweli anu monsuta seme li kama lon?
+
+del_viewer.slider.variant=ante sijelo ijo: %d
+gui.model_viewer.slider.meta=ante ijo: %d
+gui.model_viewer.button.tickprogress=ijo li tawa: %s
+gui.model_viewer.button.rotate=nimi li tawa: %s
+gui.model_viewer.button.reload_textures=o sin e sitelen
+gui.model_viewer.button.category=kulupu
+
+model.category.entity.info=soweli: %s
+model.category.entity.name=soweli
+model.category.entity.tnt.slider.fuse=tenpo pakala: %d
+model.category.entity.sheep.slider.color=kule: %s
+model.category.entity.painting.slider.motif=sitelen: %s
+model.category.entity.fireflycluster.slider.size=ken suli: %d
+model.category.entity.fireflycluster.button.cycle=kule: %s
+model.category.entity.item.button.cycle=ijo ante
+model.category.entity.item.slider.size=ken suli: %d
+model.category.entity.sand.button.cycle=o ante e leko
+model.category.entity.creeper.button.charged=wawa: %s
+model.category.entity.armored_zombie.button.sword=palisa utala: %s
+model.category.entity.wolf.button.tamed=pona tawa jan: %s
+model.category.entity.wolf.button.sitting=awen: %s
+model.category.entity.wolf.button.angry=wile utala: %s
+model.category.entity.wolf.button.armor=len: %s
+model.category.entity.wolf.button.item=ijo: %s
+model.category.entity.boat.button.flag=len sitelen: %s
+model.category.entity.boat.button.wind=kon tawa: %s tan weka suno
+model.category.entity.slime.slider.size=monsuta ko: %s
+model.category.entity.minecart.button.cycle=poki tawa ante
+model.category.entity.minecart.slider.color=kule: %s
+
+model.category.block.name=leko
+model.category.block.info=leko: %s
+model.category.block.basket.slider.fill=mute ijo: %s
+model.category.block.spawner.button.id=soweli: %s
+
+model.category.particle.name=ijo lili
+model.category.particle.info=ijo lili: %s
+model.category.particle.radius.slider=ken suli: %s
+model.category.particle.note.slider=ante kalama: %s
+model.category.particle.block.side=sinpin leko: %s
+
+gui.credits.button.done=mi pini
+gui.credits.label.title=lipu pali
+
+gui.tooltip.prompt.description=%s: o lukin e mute...
